@@ -42,3 +42,11 @@ Key insights from the analysis include:
 - Brooklyn had the highest number of summonses, particularly among Black individuals.
 - Males had a higher count of summonses compared to females across all boroughs.
 - Summonses were most common among individuals aged 25 to 44.
+
+## Conclusion and Future Work
+
+This project provides valuable insights into the patterns and trends of NYPD court summonses from 2010 to 2020. Future work could focus on deploying the visualizations to a dashboard for real-time monitoring and extending the analysis to include predictive modeling.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
